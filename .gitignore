@@ -1,0 +1,14 @@
+.venv311
+__pycache__
+*.db
+*.json
+*.srt
+*.txt
+*.mp3
+*.wav
+*.m4a
+*.ogg
+*.flac
+*.aac
+*.wma
+*.mp4
