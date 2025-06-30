@@ -4,7 +4,7 @@
 
 ## Технологии
 
-- **Язык:** Python 3.9+
+- **Язык:** Python 3.9-3.11
 - **Распознавание речи:** `stable-ts` (на базе OpenAI Whisper)
 - **Обработка аудио:** `pydub`
 - **База данных:** SQLite
@@ -16,7 +16,7 @@
 
 Перед установкой убедитесь, что у вас установлены:
 
-- **Python 3.9+:** Скачайте с [python.org](https://www.python.org/downloads/windows/). **Важно:** при установке поставьте галочку `Add Python to PATH`.
+- **Python 3.9-3.11:** Скачайте с [python.org](https://www.python.org/downloads/windows/). **Важно:** при установке поставьте галочку `Add Python to PATH`.
 - **FFmpeg:** Скачайте сборку с [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) (например, `ffmpeg-release-full.7z`), распакуйте в `C:\ffmpeg` и добавьте `C:\ffmpeg\bin` в системную переменную `PATH`.
 
 ### 2. Python-библиотеки
